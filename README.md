@@ -1,7 +1,7 @@
 # Tugela
-The **AI-powered** talent liquidity pool connecting African freelancers to the global economy.  Leveraging AI and Stellar blockchain technology, Tugela provides frictionless inter/intracontinental payemnts solutions, currency store-of-value flexibility, as well as automatic recommendations tailored to freelancer profiles.
+The **AI-powered** talent liquidity pool connecting African freelancers to the global economy.  Leveraging AI and Stellar blockchain technology, Tugela provides frictionless inter/intracontinental payemnts solutions, currency store-of-value flexibility, as well as automatic recommendations and training tailored to freelancer profiles.
 
-![On-demand Job Feed](https://github.com/j-blytix/TugelaGlow/blob/main/docs/images/product_overview2.png)
+![On-demand Job Feed](https://github.com/j-blytix/TugelaGlow/blob/main/docs/images/product_overview4.png)
 
 ### Challenge
 African freelancers have limited access to networks and platforms that connect them to remote outsourcing  opportunities within the global economy.  The digital payment ecosystem across Africa is also heavily fragmented causing friction in the exchange of goods and services.
