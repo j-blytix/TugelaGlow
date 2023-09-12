@@ -12,7 +12,7 @@ A freelance platform that seamlessly connects African youth and young profession
 ### Impact
 4X increase in accessing global on-demand opportunities and a 5X average increase in the monthly salary of Tugela users vs full-time young professionals working in similar fields.  Frictionless inter/intracontinental payment solution and monetary store of value.
 
-![Stellar Reference Flow](https://github.com/j-blytix/TugelaGlow/blob/main/docs/images/product_overview3.png)
+![Stellar Reference Flow](https://github.com/j-blytix/TugelaGlow/blob/main/docs/images/product_overview5.png)
 
 
 
