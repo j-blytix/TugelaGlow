@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/frimpong/Documents/workspace/concept/loreto/soroban-examples/timelock/target/debug/build/typenum-345d5c37a786d1b1/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/frimpong/Documents/workspace/concept/loreto/soroban-examples/timelock/target/debug/build/typenum-345d5c37a786d1b1/out/op.rs

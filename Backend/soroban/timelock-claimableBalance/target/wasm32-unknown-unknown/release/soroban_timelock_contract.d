@@ -1,0 +1,1 @@
+/Users/frimpong/Documents/workspace/concept/loreto/soroban-examples/timelock/target/wasm32-unknown-unknown/release/soroban_timelock_contract.wasm: /Users/frimpong/Documents/workspace/concept/loreto/soroban-examples/timelock/src/lib.rs /Users/frimpong/Documents/workspace/concept/loreto/soroban-examples/timelock/src/test.rs
